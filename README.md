@@ -2,6 +2,16 @@
 
 ## Find New Recipes at the Click of a Button!
 
+## User Story
+```
+As a user looking for quick recipes, 
+I would like an application that allows me to see and 
+review different recipes for both food and drinks. 
+I can view recommended recipes just by click a button or 
+I can search for recipes by thier name or category.
+
+```
+
 ## How It Works:
 
 * Upon opening the site, the user is greeted with a landing page that features a randomized image from a curated list of relevant pictures.
@@ -20,7 +30,7 @@
 
 🍹 [Live Website](https://kerilp.github.io/quick-fix-recipe/)
 
-🥪 [Source Code](https://github.com/kerilp/quick-fix-recipe)
+🥪 [Source Code](https://github.com/yinping-520/quick-fix-recipe-1)
 
 ## Languages & Resources:
 

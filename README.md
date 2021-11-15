@@ -2,6 +2,9 @@
 
 ## Find New Recipes at the Click of a Button!
 
+## Summary
+Quick Fix Recipe is an application that can quickly provide user the recipes for food and drinks.
+
 ## User Story
 ```
 As a user looking for quick recipes, 
